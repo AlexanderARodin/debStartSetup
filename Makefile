@@ -8,4 +8,4 @@ base-setup:
 
 
 sesstion-type:
-	echo "$XDG_SESSION_TYPE"
+	@echo "$$XDG_SESSION_TYPE"
