@@ -4,7 +4,8 @@ base-setup:
 	sudo apt install systemd-timesyncd
 	sudo apt update
 	sudo apt install make git tmux vifm
-	sudo apt purge nano gnome-tour tast-thai* xiterm+thai
+	sudo apt purge nano gnome-tour
+	sudo apt purge task-thai* xiterm+thai
 	sudo apt autopurge
 
 
