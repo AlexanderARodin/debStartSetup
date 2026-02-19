@@ -5,3 +5,7 @@ base-setup:
 	sudo apt purge nano gnome-tour
 	sudo apt autopurge
 	sudo apt install systemd-timesyncd
+
+
+sesstion-type:
+	echo "$XDG_SESSION_TYPE"
