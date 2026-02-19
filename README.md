@@ -3,6 +3,6 @@
   2. `git clone https://github.com/AlexanderARodin/debStartSetup.git && cd debStartSetup`
 
 # usage
-  3. `make setup-base`
+  3. `make base-setup`
 
   
